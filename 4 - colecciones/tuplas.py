@@ -1,0 +1,5 @@
+tupla = (20, 'Hola mundo', True, [1, 2, 3, 4])
+# print(tupla[3][3])
+# print(tupla.index(True))
+# print(tupla.count([1,2,3,4]))
+print(len(tupla[3]))
